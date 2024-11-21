@@ -2,6 +2,11 @@
 
 Este projeto é um programa em Python que utiliza a [API TMDB](https://www.themoviedb.org/) para recomendar os 10 melhores filmes semelhantes ao filme informado pelo usuário. O objetivo é oferecer sugestões de filmes baseadas na pontuação média de popularidade.
 
+## Projeto Original
+O projeto original pode ser encontrado no GitHub do professor [João Paulo Aramuni](https://github.com/joaopauloaramuni/python/tree/main/PROJETOS/Projeto%20MoviesWithTMDBApi). 
+
+O meu projeto possui algumas diferenças
+
 ## Funcionalidades
 
 - Pesquisa o ID de um filme a partir do seu nome.
