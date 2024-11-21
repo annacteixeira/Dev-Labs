@@ -1,5 +1,7 @@
 # TMDB Movie Recommender
 
+![TMDB Logo](https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_1-8ba2ac31f354005783fab473602c34c3f4fd207150182061e425d366e4f34596.svg)
+
 Este projeto é um programa em Python que utiliza a [API TMDB](https://www.themoviedb.org/) para recomendar os 10 melhores filmes semelhantes ao filme informado pelo usuário. O objetivo é oferecer sugestões de filmes baseadas na pontuação média de popularidade.
 
 ## Projeto Original
