@@ -15,7 +15,7 @@ Repositório criado para as aulas de Python da oficina 'Dev Labs', ministrada pe
     <img 
         alt="python logo" 
         src="https://img.icons8.com/?size=512&id=121464&format=png" 
-        width="220" 
+        width="100" 
         style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" 
     />
 </div>
