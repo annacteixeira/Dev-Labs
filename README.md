@@ -30,7 +30,7 @@ Repositório criado para as aulas de Python da oficina 'Dev Labs', ministrada pe
         </thead>
         <tbody>
             <tr>
-                <td>TMDB Movie Recommender</td>
+                <td>TMDB Movie Recommender com Interface Gráfica</td>
                 <td><a href="https://github.com/annacteixeira/Dev-Labs/tree/main/Projeto%20MoviesWithTMDBApi">Projeto MoviesWithTMDBApi</a></td>
             </tr>
             <tr>
