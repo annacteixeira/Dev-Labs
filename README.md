@@ -33,6 +33,10 @@ Repositório criado para as aulas de Python da oficina 'Dev Labs', ministrada pe
                 <td>TMDB Movie Recommender</td>
                 <td><a href="https://github.com/annacteixeira/Dev-Labs/tree/main/Projeto%20MoviesWithTMDBApi">Projeto MoviesWithTMDBApi</a></td>
             </tr>
+            <tr>
+                <td>YouTube Audio Downloader com Interface Gráfica</td>
+                <td><a href="https://github.com/annacteixeira/Dev-Labs/tree/main/Projeto%20YouTubeAudioDownloader">Projeto YouTubeAudioDownloader</a></td>
+            </tr>
         </tbody>
     </table>
 </div>
