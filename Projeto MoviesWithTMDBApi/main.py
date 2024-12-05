@@ -1,5 +1,3 @@
-# API: TMDB
-
 import requests
 
 API_KEY = 'acbf816ad3d302dc7aa9b14276628d06'
@@ -53,8 +51,3 @@ def recommend_movies(movie_name):
         rating = movie['vote_average']
         release_date = movie.get('release_date', 'Data desconhecida')
         print(f"{i}. {title} (Nota: {rating}, Lançamento: {release_date})")
-
-
-if __name__ == "__main__":
-    filme = input("Informe o nome de um filme: ")
-    recommend_movies(filme)
