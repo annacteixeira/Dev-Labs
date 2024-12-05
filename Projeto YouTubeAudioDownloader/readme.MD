@@ -1,6 +1,8 @@
 # YouTube Audio Downloader with UI
 
-Este é um projeto para baixar o áudio de vídeos do YouTube utilizando a biblioteca `yt_dlp`, uma ferramenta poderosa que facilita o download de conteúdo na melhor qualidade disponível. O áudio é extraído, convertido para MP3 e salvo com o título original do vídeo.
+Este é um projeto desenvolvido pelo professor [João Paulo Aramuni](https://github.com/joaopauloaramuni), para baixar o áudio de vídeos do YouTube utilizando a biblioteca `yt_dlp`, uma ferramenta poderosa que facilita o download de conteúdo na melhor qualidade disponível. O áudio é extraído, convertido para MP3 e salvo com o título original do vídeo.
+
+Durante o Dev Labs desenvolvemos uma interface gráfica para o projeto, trazendo mais facilidade para o usuário, que não fica dependente da CLI para fazer o download.
 
 ## Interface Gráfica
 
