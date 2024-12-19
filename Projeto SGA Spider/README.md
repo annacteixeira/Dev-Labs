@@ -59,7 +59,6 @@ O arquivo ```faltas.json``` será gerado na pasta do projeto contendo as informa
 
 ## Exemplo de Saída
 
-
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
 
