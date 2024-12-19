@@ -15,7 +15,7 @@
     </table>
 </div>
 
-Este projeto é uma aplicação Python que automatiza a consulta do número máximo de faltas possíveis e realiza o somatório das notas por disciplina para estudantes de Graduação da PUC Minas. Ele utiliza web scraping para acessar o portal acadêmico e processar as informações de frequência e notas.
+Este projeto é uma aplicação Python que automatiza a consulta do número máximo de faltas possíveis e realiza o somatório das notas por disciplina para estudantes de Graduação da PUC Minas. Ele utiliza web scraping para acessar o SGA e processar as informações de frequência e notas.
 
 
 
